@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5168d7c-48e2-4a75-ba37-7a2d8a89442d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/content.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/sass_modules/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sass_modules/_header.scss" afterDir="false" />
     </list>
@@ -22,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1900">
-              <caret line="99" selection-start-line="99" selection-end-line="99" />
+            <state relative-caret-position="382">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -31,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scss/sass_modules/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-154">
-              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            <state relative-caret-position="448">
+              <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -40,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/content.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+            <state relative-caret-position="508">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -61,8 +58,8 @@
         <option value="$PROJECT_DIR$/src/js/modules/data.js" />
         <option value="$PROJECT_DIR$/src/js/modules/Build.js" />
         <option value="$PROJECT_DIR$/src/scss/main.scss" />
-        <option value="$PROJECT_DIR$/src/scss/sass_modules/_header.scss" />
         <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/src/scss/sass_modules/_header.scss" />
         <option value="$PROJECT_DIR$/src/js/content.js" />
       </list>
     </option>
@@ -152,19 +149,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560951421192</updated>
-      <workItem from="1560951422402" duration="25488000" />
+      <workItem from="1560951422402" duration="30673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25488000" />
+    <option name="totallyTimeSpent" value="30673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="822" height="816" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496879" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2496879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -245,22 +242,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        <state relative-caret-position="382">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/sass_modules/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        <state relative-caret-position="448">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/content.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="508">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
         </state>
       </provider>
     </entry>
