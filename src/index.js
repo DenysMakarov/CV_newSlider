@@ -1,7 +1,7 @@
 
 
 import "./js/content"
-import "./js/slick";
+// import "./js/slick";
 // import "./css/main.css"     //// импортируем файл для обработки
 import "./scss/main.scss";
 import "./js/es5-sham.min"
